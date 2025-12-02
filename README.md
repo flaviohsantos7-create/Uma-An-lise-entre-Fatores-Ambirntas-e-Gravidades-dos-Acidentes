@@ -51,13 +51,13 @@ O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariam
 
 3. Passos da Análise:
    
-  1.	Importação e Filtragem: Carregamento do dataset e seleção de acidentes na Região Nordeste.
+    1 - Importação e Filtragem: Carregamento do dataset e seleção de acidentes na Região Nordeste.
   	
-  2.	Limpeza/Categorização: Normalização e padronização das colunas (Ex: Gravidade: Sem Vítimas, Feridos Leves, Feridos Graves, Fatais).
+    2 - Limpeza/Categorização: Normalização e padronização das colunas (Ex: Gravidade: Sem Vítimas, Feridos Leves, Feridos Graves, Fatais).
   
-  3.	Análise Descritiva: Geração de gráficos para visualizar a distribuição da gravidade em função do clima e da fase do dia.
+    3 - Análise Descritiva: Geração de gráficos para visualizar a distribuição da gravidade em função do clima e da fase do dia.
      
-  4.	Validação Estatística: Aplicação do Teste de Qui-quadrado para testar a independência.
+    4 - Validação Estatística: Aplicação do Teste de Qui-quadrado para testar a independência.
 
 
 
