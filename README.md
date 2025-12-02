@@ -78,7 +78,7 @@ A correlação entre as condições ambientais e a gravidade dos acidentes é es
 Os dois principais achados do estudo, validados estatisticamente, são:
 
   - Fator Climático: As condições de Chuva e Neblina não apenas causam acidentes, mas aumentam a chance de o resultado ser Gravíssimo ou Fatal.
-  - 
+  
   - Fator Iluminação: A maior proporção de acidentes de alta gravidade ocorre na Plena Noite (escuridão), indicando a insuficiência de visibilidade como um risco primordial.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
