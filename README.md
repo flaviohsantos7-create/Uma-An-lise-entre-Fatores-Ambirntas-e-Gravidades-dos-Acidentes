@@ -86,3 +86,14 @@ Os dois principais achados do estudo, validados estatisticamente, são:
 Publicação e Aceitação:
 
 O artigo completo, resultado desta análise, foi aceito e apresentado no II CONGRESSO INTERNACIONAL DE INOVAÇÃO E PESQUISA.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Contato:
+
+Sinta-se à vontade para entrar em contato para dúvidas, sugestões ou colaborações:
+
+•	Flavio Henrique Santos: https://www.linkedin.com/in/flaviosantos-dev-eng/
+
+•	Gustavo Henrique Passiani Florêncio: https://www.linkedin.com/in/gustavo-h-passiani-a87b1a215/
+
