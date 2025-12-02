@@ -27,6 +27,8 @@ Objetivo:
 
 O objetivo central foi validar a hipótese de que o ambiente (clima e iluminação) possui uma influência direta e mensurável na severidade final de uma colisão, e não apenas na sua ocorrência.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Metodologia e Pipeline de Dados:
 
 O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariamente em Python, utilizando o Jupyter Notebook (Script_analises_Nordeste.ipynb).
