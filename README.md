@@ -87,6 +87,8 @@ Publicação e Aceitação:
 
 O artigo completo, resultado desta análise, foi aceito e apresentado no II CONGRESSO INTERNACIONAL DE INOVAÇÃO E PESQUISA.
 
+Link do congresso na Even3: https://www.even3.com.br/ii-congresso-internacional-de-inovacao-e-pesquisa-603868/
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Contato:
