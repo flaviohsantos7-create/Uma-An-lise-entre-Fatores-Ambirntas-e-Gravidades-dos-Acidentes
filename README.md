@@ -79,11 +79,11 @@ Os dois principais achados do estudo, validados estatisticamente, são:
 
   - Fator Climático: As condições de Chuva e Neblina não apenas causam acidentes, mas aumentam a chance de o resultado ser Gravíssimo ou Fatal.
 
-            <img width="594" height="346" alt="image" src="https://github.com/user-attachments/assets/6975ecc6-cccc-43e8-b08a-3cc569ea6d6b" />
+    <img width="594" height="346" alt="image" src="https://github.com/user-attachments/assets/6975ecc6-cccc-43e8-b08a-3cc569ea6d6b" />
   
   - Fator Iluminação: A maior proporção de acidentes de alta gravidade ocorre em Nevoeiro ao Amanhecer, indicando a insuficiência de visibilidade como um risco primordial.
 
-            <img width="694" height="395" alt="image" src="https://github.com/user-attachments/assets/431b2b32-5a3d-42a9-9519-a703a4938b72" />
+    <img width="694" height="395" alt="image" src="https://github.com/user-attachments/assets/431b2b32-5a3d-42a9-9519-a703a4938b72" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
