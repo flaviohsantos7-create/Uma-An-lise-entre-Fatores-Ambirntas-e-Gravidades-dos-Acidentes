@@ -69,7 +69,7 @@ O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariam
 
 O teste de Qui-quadrado resultou em um p-valor < 0,05 para as variáveis analisadas, permitindo rejeitar a hipótese nula de independência.
 
-<img width="443" height="158" alt="image" src="https://github.com/user-attachments/assets/c92999da-5589-46a6-b8d9-20ffae21c512" />
+   <img width="443" height="158" alt="image" src="https://github.com/user-attachments/assets/c92999da-5589-46a6-b8d9-20ffae21c512" />
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
